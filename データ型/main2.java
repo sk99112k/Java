@@ -1,3 +1,4 @@
+package データ型;
 class Main2 {
   public static void main(String[] args) {
     // double型の変数number1を定義し、8.5を代入してください。

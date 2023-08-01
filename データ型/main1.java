@@ -1,3 +1,4 @@
+package データ型;
 class Main1 {
   public static void main(String[] args) {
     int length = 6;

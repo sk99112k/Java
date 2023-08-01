@@ -1,3 +1,4 @@
+package 条件分岐;
 class Main11 {
   public static void main(String[] args) {
     int n = 1;
