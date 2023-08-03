@@ -1,4 +1,4 @@
-package メソッド;
+package Progate.メソッド;
 public class main22 {
   public static void main(String[] args) {
     printData();

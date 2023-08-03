@@ -1,4 +1,4 @@
-package メソッド;
+package Progate.メソッド;
   class main21 {
     public static void main(String[] args) {
       hello();

@@ -1,4 +1,4 @@
-package 配列;
+package Progate.配列;
   class main20  {
     public static void main(String[] args) {
       // 変数numbersに、与えられた数字の配列を代入してください

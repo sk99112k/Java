@@ -1,4 +1,4 @@
-package 条件分岐;
+package Progate.条件分岐;
 public class main9 {
   public static void main(String[] args) {
     // 条件式に直接trueをいれてください

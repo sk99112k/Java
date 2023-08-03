@@ -1,4 +1,4 @@
-package メソッド;
+package Progate.メソッド;
 public class main23 {
   public static void main(String[] args) {
     // 引数に「Kate Jones」を渡してください

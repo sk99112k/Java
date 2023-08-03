@@ -1,4 +1,4 @@
-package 繰り返し処理;
+package Progate.繰り返し処理;
   class main15 {
     public static void main(String[] args) {
       System.out.println("=== while文 ===");

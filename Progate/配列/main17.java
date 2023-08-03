@@ -1,4 +1,4 @@
-package 配列;
+package Progate.配列;
   class main17 {
     public static void main(String[] args) {
       // 変数languagesを定義し、配列を代入してください

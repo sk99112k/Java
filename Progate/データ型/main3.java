@@ -1,4 +1,4 @@
-package データ型;
+package Progate.データ型;
 public class main3 {
   public static void main(String[] args) {
     int month = 12;

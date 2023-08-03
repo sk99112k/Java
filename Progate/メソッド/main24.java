@@ -1,4 +1,4 @@
-package メソッド;
+package Progate.メソッド;
 public class main24 {
   public static void main(String[] args) {
     // それぞれ年齢に関する引数を追加してください

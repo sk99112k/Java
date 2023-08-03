@@ -1,4 +1,4 @@
-package データ型;
+package Progate.データ型;
 public class main5 {
   public static void main(String[] args) {
     // 変数nameに、好きな名前を代入してください

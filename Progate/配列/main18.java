@@ -1,4 +1,4 @@
-package 配列;
+package Progate.配列;
 class main18 {
   public static void main(String[] args) {
     String[] names = {"にんじゃわんこ", "ひつじ仙人", "ベイビーわんこ"};

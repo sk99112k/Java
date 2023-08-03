@@ -1,4 +1,4 @@
-package 繰り返し処理;
+package Progate.繰り返し処理;
   class main14 {
     public static void main(String[] args) {
       // for文を用いて、繰り返し処理をつくってください
