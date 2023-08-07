@@ -5,3 +5,5 @@ public class main5 {
 		System.out.println(age);
 	}
 }
+
+// よほどの理由がない限り使用しない
