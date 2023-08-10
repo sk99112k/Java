@@ -7,4 +7,10 @@ public class practice {
     String ans = "x+yは" + (x + y);
     System.out.println(ans);
   }
+
+  /* 練習2 */
+  2,4,5,7
+
+  /* 練習3 */
+  
 }
