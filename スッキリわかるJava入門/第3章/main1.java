@@ -8,5 +8,5 @@ public class main1 {
     } else {
         System.out.println("DVDを見ます");
     }
-}
+  }
 }
