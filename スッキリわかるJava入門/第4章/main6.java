@@ -1,13 +1,13 @@
 package スッキリわかるJava入門.第4章;
 public class main6 {
   public static void main (String [] args) {
-    //ループによる全要素の利用
+    //ループによる全要素の利用(全て表示)
     int[] scorers = {20, 40, 10, 50, 80};
     for (int i = 0; i < scorers.length; i++) {
       System.out.println(scorers[i]);
     }
 
-    //ループによる集計
+    //ループによる集計(合計・平均)
     int[] points = {20, 40, 10, 50, 80};
     int sum = 0;
     for (int i = 0; i < points.length; i++) {
