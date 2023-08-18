@@ -49,9 +49,9 @@ public class main6 {
           System.out.print("C ");
           break;
       }
+      /* switchの部分を省略 */
+      /* char[] base = {'A', 'T', 'G', 'C'};
+      *  System.out.print(base[seq[i]] + " "); */
     }
-    /* switchの部分を省略 */
-    /* char[] base = {'A', 'T', 'G', 'C'};
-     * System.out.print(base[seq[i]] + " "); */
   }
 }
