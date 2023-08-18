@@ -50,5 +50,8 @@ public class main6 {
           break;
       }
     }
+    /* switchの部分を省略 */
+    /* char[] base = {'A', 'T', 'G', 'C'};
+     * System.out.print(base[seq[i]] + " "); */
   }
 }
