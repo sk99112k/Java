@@ -10,5 +10,9 @@ public class main9 {
     scorers[1] [1] = 60;
     scorers[1] [2] = 70;
     System.out.println(scorers[1] [1]);
+
+    int[] [] numbers = {{40, 50,60}, {80, 60, 70}}; //このような初期値が可能
+    System.out.println(numbers.length); //2が出力される
+    System.out.println(numbers[0].length); //3が出力される
   }
 }
