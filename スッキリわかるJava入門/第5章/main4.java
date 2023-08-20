@@ -8,4 +8,12 @@ public class main4 {
     int ans = x + y;
     System.out.println(x + "+" + y + "=" + ans);
   }
+
+  //コンパイルエラーの例
+  public static void main1(String[] args) {
+    methodA(100, "abc");
+  }
+  public static void methodA(String x, int y) {
+    System.out.println(x + y);
+  }
 }
