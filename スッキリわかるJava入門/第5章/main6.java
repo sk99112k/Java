@@ -1,5 +1,6 @@
 package スッキリわかるJava入門.第5章;
 public class main6 {
+//引き数の型が異なる場合
   //一つ目のメソッド
   public static int add(int x, int y) {
     return x + y;
