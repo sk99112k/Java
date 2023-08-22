@@ -13,7 +13,6 @@ public class main6 {
   public static String add(String x, String y) {
     return x + y;
   }
-  
   public static void main(String[] args) { 
     System.out.println(add(10, 20));
     System.out.println(add(5.5, 2.4));
