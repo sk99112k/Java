@@ -1,5 +1,5 @@
 package スッキリわかるJava入門.第5章;
-public class practice１ {
+public class practice1 {
   public static void introduceOneself() {
     String name = "sayaka";
     int age = 14;
@@ -15,3 +15,5 @@ public class practice１ {
       introduceOneself();
   }
 }
+
+public class practice2 {
