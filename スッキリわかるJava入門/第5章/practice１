@@ -1,5 +1,5 @@
 package スッキリわかるJava入門.第5章;
-public class practice {
+public class practice１ {
   public static void introduceOneself() {
     String name = "sayaka";
     int age = 14;
@@ -9,9 +9,9 @@ public class practice {
     System.out.println("私は" + age + "歳です");
     System.out.println("私の身長は" + height + "cmです");
     System.out.println("私は" + one + "年です");
-}
+  }
 
-public static void main(String[] args) {
-    introduceOneself();
-}
+  public static void main(String[] args) {
+      introduceOneself();
+  }
 }
