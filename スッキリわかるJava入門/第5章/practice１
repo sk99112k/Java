@@ -10,10 +10,21 @@ public class practice1 {
     System.out.println("私の身長は" + height + "cmです");
     System.out.println("私は" + one + "年です");
   }
-
   public static void main(String[] args) {
       introduceOneself();
   }
 }
 
 public class practice2 {
+  public static void main(String[] args) {
+    String title = "aaa";
+    String address = "sdf@jp";
+    String text = "ありがとう";
+    email(title, address, text);
+  }
+  public static void email(String title, String address, String text) {
+    System.out.println(address + "に以下のメールを送信しました");
+    System.out.println("件名：" + title);
+    System.out.println("本文：" + text);
+  }
+}
