@@ -1,0 +1,17 @@
+package スッキリわかるJava入門.第5章;
+public class practice {
+  public static void introduceOneself() {
+    String name = "sayaka";
+    int age = 14;
+    double height = 157.6;
+    char one = '兎'; //シングルクォーテション
+    System.out.println("私の名前は" + name + "です");
+    System.out.println("私は" + age + "歳です");
+    System.out.println("私の身長は" + height + "cmです");
+    System.out.println("私は" + one + "年です");
+}
+
+public static void main(String[] args) {
+    introduceOneself();
+}
+}
