@@ -12,3 +12,4 @@ public class Calc {
     System.out.print("足すと" + total + "引くと" + delta);
   }
 }
+
